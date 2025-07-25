@@ -1,0 +1,32 @@
+.root {
+    -fx-background-color: #f4f4f4;
+    -fx-font-family: 'Helvetica';
+}
+
+.button {
+    -fx-background-color: #007bff;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-radius: 5;
+}
+
+.button:hover {
+    -fx-background-color: #0056b3;
+}
+
+.text-field {
+    -fx-background-radius: 5;
+    -fx-border-color: #cccccc;
+    -fx-border-radius: 5;
+}
+
+.list-view {
+    -fx-border-color: #cccccc;
+    -fx-border-radius: 5;
+}
+
+.label {
+    -fx-font-size: 18px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #333333;
+}
